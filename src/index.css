@@ -1,0 +1,59 @@
+#navbar {
+  color: black;
+  font-family: 'Poppins', sans-serif;
+}
+
+#button-nav {
+  margin-left: -200px;
+  margin-right: 30px;
+}
+
+
+.card-img-top {
+  text-align: center;
+}
+
+.card-title {
+  text-align: center;
+}
+
+.card-text {
+  text-align: center;
+}
+
+#tentang {
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+.peta {
+  margin-top: 5em;
+  margin-bottom: 3em;
+}
+
+#fotocard {
+  align-items: center;
+  height: 290px;
+  width: 285px;
+  display: flex;
+  justify-content: center;
+}
+
+#text-reservasi {
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+#semua-data{
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}

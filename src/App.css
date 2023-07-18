@@ -1,0 +1,151 @@
+.konten-card {
+  margin-top: 20px;
+}
+
+.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+  url('image/foto-hp.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.text-gambar {
+  text-align: center;
+  padding: 18em;
+  color: bisque;
+}
+
+.text-gambar h1 {
+  font-size: 60px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.text-gambar p {
+  font-size: 25px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#reservasi {
+  text-align: center;
+  margin-bottom: 6em;
+}
+
+.formindex {
+  width: 45em;
+  margin-left: 13em;
+  margin-right: 12em;
+}
+
+.formisi {
+  margin-top: 1em;
+}
+
+#tombol-reservasi {
+  margin-top: 3em;
+  margin-bottom: 1em;
+}
+
+#footerisi {
+  background-color: black;
+  margin-bottom: -1em;
+  padding: 2px;
+  text-align: center;
+}
+
+#footerisi p {
+  color: aliceblue;
+  margin-top: 5px;
+}
+
+
+body {
+  background: #456;
+  font-family: 'Open Sans', sans-serif;
+}
+.login {
+  width: 400px;
+  margin: 16px auto;
+  font-size: 16px;
+}
+/* Reset top and bottom margins from certain elements */
+.login-header,
+.login p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.login-header {
+  background:black;
+  padding: 20px;
+  font-size: 1.4em;
+  font-weight: normal;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
+.login-container {
+  background: #ebebeb;
+  padding: 12px;
+}
+/* Every row inside .login-container is defined with p tags */
+.login p {
+  padding: 12px;
+}
+.login input {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  padding: 16px;
+  outline: 0;
+  font-family: inherit;
+  font-size: 0.95em;
+}
+.login input[type="email"],
+.login input[type="password"] {
+  background: #fff;
+  border-color: #bbb;
+  color: #555;
+}
+/* Text fields' focus effect */
+.login input[type="email"]:focus,
+.login input[type="password"]:focus {
+  border-color: #888;
+}
+.login input[type="submit"] {
+  background: black;
+  border-color: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+.login input[type="submit"]:hover {
+  background: #17c;
+}
+/* Buttons' focus effect */
+.login input[type="submit"]:focus {
+  border-color: #05a;
+}
+
+#title-admin {
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 3em;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+#tombol-admin {
+  text-align:center;
+  margin-top: 1em;
+  margin-bottom: 4em;
+}
+
+#card-pelanggan-isi {
+  margin-bottom: 4em;
+  width: 20em;
+}
+
+
